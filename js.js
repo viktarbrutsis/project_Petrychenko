@@ -24,10 +24,10 @@
 //alert(`Privet, ${user}`);
 
 //
-let incr = 10,
-    decr = 15;
+//let incr = 10,
+//    decr = 15;
 
-//++incr;
-//--decr;
-console.log(incr++);
-console.log(decr--);
+////++incr;
+////--decr;
+//console.log(incr++);
+//console.log(decr--);
